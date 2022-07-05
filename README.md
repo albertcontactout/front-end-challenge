@@ -26,7 +26,7 @@ Improvements to design and functionality are allowed to be added in order to hig
 
 ## Submission Requirements
 
-1. Zip your submission and send it to <a href="mailto:albert@contactout.io">albert@contactout.io</a>. You may need to upload it to google drive if you're not able to share a zip file in the email directly.
+1. Zip your submission, rename the zip file into your name `first-last.zip` and send it to <a href="mailto:albert@contactout.io">albert@contactout.io</a> and <a href="mailto:ac@contactout.io">ac@contactout.io</a>. You may need to upload it to google drive if you're not able to share a zip file in the email directly.
 2. Please also create a video demo walking us through the submission and a separate one to explain the code. Make sure to include the video links in your readme
 
 Vidyard or loom are free tools that allow you to screen record easily.
